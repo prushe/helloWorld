@@ -9,8 +9,8 @@ Git is a free and open source distributed version control system designed to han
   
 # Info about commands  of Git
 ## Beginning in Git
-* `git config --global user.name 'yourName` - input your name
-* `git config --global user.email 'exampel@exampel.com'` - input your e-mail\
+* `git config --global user.name "yourName"` - input your name
+* `git config --global user.email "exampel@exampel.com"` - input your e-mail
 >*This is necessary to indicate in commit the information about the user who edited the file.*
 * `git init` – initializing the local repository
 
