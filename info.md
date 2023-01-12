@@ -1,7 +1,16 @@
+<Links>
+
 [GitHub]: https://gist.github.com/Jekins/2bf2d0638163f1294637
 [Markdown Guide]: https://www.markdownguide.org/basic-syntax/
-
 [Git]: https://git-scm.com/
+
+<Link for table of Content >
+
+[Beginning in Git]:#Beginning-in-Git
+[Work with Git]:#Work-with-Git
+[Info about commits]:#Info-about-commits
+[More info]:#More-info
+
 ![gitImg](https://fuzeservers.ru/wp-content/uploads/3/0/c/30c29ce4cc08523ecc6e1f205bc207d0.jpeg "Git")
 
 # About Git
@@ -10,7 +19,10 @@ Git is a free and open source distributed version control system designed to han
 
 # Info about commands  of Git
 ## Content
-1. [Beginning in Git]()
+1. [Beginning in Git]
+2. [Work with Git]
+3. [Info about commits]
+4. [More info]
 
 ## Beginning in Git
 * `git config --global user.name "yourName"` - input your name
